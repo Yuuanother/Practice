@@ -1,3 +1,3 @@
 window.onload = () => {
-    console.log("Hello world!");
+    console.log("Esto va a salir por consola");
 }
